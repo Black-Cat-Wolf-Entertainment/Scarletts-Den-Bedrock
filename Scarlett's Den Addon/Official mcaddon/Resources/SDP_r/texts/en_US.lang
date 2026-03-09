@@ -3,7 +3,6 @@ pack.description=Resources for the Scarlett's Den: Public Beta Release!
 ###/////////////////////////////////////////////###
 ###STAFF ONLY###
 item.bcwe_sd:changelog_book=§eChange Logs: §3Scarlett's Den\n§9Scarlett's Den§r
-###ITEM CATALOG###
 ###CONSTRUCTION###
 ##Ore Blocks##
 tile.bcwe_sd:ruby_block.name=Ruby Block\n§9Scarlett's Den§r
@@ -62,5 +61,4 @@ item.bcwe_sd:ruby=Ruby\n§9Scarlett's Den§r
 ##Ruby
 tile.bcwe_sd:ruby_ore.name=Ruby Ore\n§9Scarlett's Den§r
 tile.bcwe_sd:deepslate_ruby_ore.name=Deepslate Ruby Ore\n§9Scarlett's Den§r
-##Mob Eggs##
 ###/////////////////////////////////////////////###
