@@ -1,1 +1,0 @@
-effect @e[hasitem={item=bcwe_sd:puppys_collar,location=slot.armor.chest}] health_boost 2 1
