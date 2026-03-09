@@ -109,12 +109,6 @@
     "textures/blocks/ruby_ore",
 
     "textures/blocks/nether_gold_ore",
-    "textures/blocks/quartz_ore",
-//Mob Eggs//
-//Billy
-    "textures/entity/billy",
-    "textures/items/billy",
-//Piglin Trader
-    "textures/enity/piglin_trader"
+    "textures/blocks/quartz_ore"
 ////////////////////////////////////////////
 ]

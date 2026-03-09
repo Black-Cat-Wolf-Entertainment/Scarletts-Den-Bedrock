@@ -6,6 +6,7 @@
         "changelog_book_item": {
             "textures": "textures/items/changelog_book"
         },
+///////////////
 ///EQUIPMENT///
 //Armor//
 //Amethyst
@@ -126,22 +127,11 @@
             "textures": "textures/items/equipment/ruby/tools/ruby_hoe"
         },
 ///ITEMS///
-        "chromium_ingot_item": {
-            "textures": "textures/items/chromium_ingot"
-        },
-        "chromium_raw_item": {
-            "textures": "textures/items/chromium_raw"
-        },
         "puppys_collar_item": {
             "textures": "textures/items/puppy/puppys_collar"
         },
         "ruby_item": {
             "textures": "textures/items/ruby"
-        },
-///NATURE///
-//Mob Eggs//
-        "billy_item": {
-            "textures": "textures/items/billy"
         }
     }
 }
