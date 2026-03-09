@@ -1,0 +1,23 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "bcwe_sd:ruby_helmet_decraft"
+        },
+        "tags": ["crafting_table"],
+        "ingredients": [
+            {
+                "item": "bcwe_sd:ruby_helmet"
+            }
+        ],
+        "result": {
+            "item": "bcwe_sd:ruby",
+            "count": 5
+        },
+        "unlock": [
+            {
+                "item": "bcwe_sd:ruby"
+            }
+        ]
+    }
+}
