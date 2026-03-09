@@ -1,5 +1,5 @@
-pack.name=Scarlett's Den [R]
-pack.description=Resources for Scarlett's Den
+pack.name=Scarlett's Den: Public Beta [R]
+pack.description=Resources for the Scarlett's Den: Public Beta Release!
 ###/////////////////////////////////////////////###
 ###STAFF ONLY###
 item.bcwe_sd:changelog_book=§eChange Logs: §3Scarlett's Den\n§9Scarlett's Den§r
@@ -63,8 +63,4 @@ item.bcwe_sd:ruby=Ruby\n§9Scarlett's Den§r
 tile.bcwe_sd:ruby_ore.name=Ruby Ore\n§9Scarlett's Den§r
 tile.bcwe_sd:deepslate_ruby_ore.name=Deepslate Ruby Ore\n§9Scarlett's Den§r
 ##Mob Eggs##
-entity.bcwe_sd:billy.name=Billy
-item.spawn_egg.entity.bcwe_sd:billy.name=Billy\n§9Scarlett's Den§r
-entity.piglin_trader.name=Piglin Trader
-item.spawn_egg.entity.bcwe_sd:piglin_trader.name=Piglin Trader\n§9Scarlett's Den§r
 ###/////////////////////////////////////////////###
