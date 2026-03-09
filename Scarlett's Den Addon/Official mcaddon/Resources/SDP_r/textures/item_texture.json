@@ -1,0 +1,147 @@
+{
+    "texture_name": "atlas.items",
+    "resource_pack_name": "bcwe_sd",
+    "texture_data": {
+///STAFF ONLY///
+        "changelog_book_item": {
+            "textures": "textures/items/changelog_book"
+        },
+///EQUIPMENT///
+//Armor//
+//Amethyst
+        "amethyst_helmet_item": {
+            "textures": "textures/items/equipment/amethyst/armor/amethyst_helmet"
+        },
+        "amethyst_chestplate_item": {
+            "textures": "textures/items/equipment/amethyst/armor/amethyst_chestplate"
+        },
+        "amethyst_leggings_item": {
+            "textures": "textures/items/equipment/amethyst/armor/amethyst_leggings"
+        },
+        "amethyst_boots_item": {
+            "textures": "textures/items/equipment/amethyst/armor/amethyst_boots"
+        },
+//Emerald
+        "emerald_helmet_item": {
+            "textures": "textures/items/equipment/emerald/armor/emerald_helmet"
+        },
+        "emerald_chestplate_item": {
+            "textures": "textures/items/equipment/emerald/armor/emerald_chestplate"
+        },
+        "emerald_leggings_item": {
+            "textures": "textures/items/equipment/emerald/armor/emerald_leggings"
+        },
+        "emerald_boots_item": {
+            "textures": "textures/items/equipment/emerald/armor/emerald_boots"
+        },
+//Lapis
+        "lapis_helmet_item": {
+            "textures": "textures/items/equipment/lapis/armor/lapis_helmet"
+        },
+        "lapis_chestplate_item": {
+            "textures": "textures/items/equipment/lapis/armor/lapis_chestplate"
+        },
+        "lapis_leggings_item": {
+            "textures": "textures/items/equipment/lapis/armor/lapis_leggings"
+        },
+        "lapis_boots_item": {
+            "textures": "textures/items/equipment/lapis/armor/lapis_boots"
+        },
+//Ruby
+        "ruby_helmet_item": {
+            "textures": "textures/items/equipment/ruby/armor/ruby_helmet"
+        },
+        "ruby_chestplate_item": {
+            "textures": "textures/items/equipment/ruby/armor/ruby_chestplate"
+        },
+        "ruby_leggings_item": {
+            "textures": "textures/items/equipment/ruby/armor/ruby_leggings"
+        },
+        "ruby_boots_item": {
+            "textures": "textures/items/equipment/ruby/armor/ruby_boots"
+        },
+//Tools//
+//Amethyst
+        "amethyst_sword_item": {
+            "textures": "textures/items/equipment/amethyst/tools/amethyst_sword"
+        },
+        "amethyst_axe_item": {
+            "textures": "textures/items/equipment/amethyst/tools/amethyst_axe"
+        },
+        "amethyst_pickaxe_item": {
+            "textures": "textures/items/equipment/amethyst/tools/amethyst_pickaxe"
+        },
+        "amethyst_shovel_item": {
+            "textures": "textures/items/equipment/amethyst/tools/amethyst_shovel"
+        },
+        "amethyst_hoe_item": {
+            "textures": "textures/items/equipment/amethyst/tools/amethyst_hoe"
+        },
+//Emerald
+        "emerald_sword_item": {
+            "textures": "textures/items/equipment/emerald/tools/emerald_sword"
+        },
+        "emerald_axe_item": {
+            "textures": "textures/items/equipment/emerald/tools/emerald_axe"
+        },
+        "emerald_pickaxe_item": {
+            "textures": "textures/items/equipment/emerald/tools/emerald_pickaxe"
+        },
+        "emerald_shovel_item": {
+            "textures": "textures/items/equipment/emerald/tools/emerald_shovel"
+        },
+        "emerald_hoe_item": {
+            "textures": "textures/items/equipment/emerald/tools/emerald_hoe"
+        },
+//Lapis
+        "lapis_sword_item": {
+            "textures": "textures/items/equipment/lapis/tools/lapis_sword"
+        },
+        "lapis_axe_item": {
+            "textures": "textures/items/equipment/lapis/tools/lapis_axe"
+        },
+        "lapis_pickaxe_item": {
+            "textures": "textures/items/equipment/lapis/tools/lapis_pickaxe"
+        },
+        "lapis_shovel_item": {
+            "textures": "textures/items/equipment/lapis/tools/lapis_shovel"
+        },
+        "lapis_hoe_item": {
+            "textures": "textures/items/equipment/lapis/tools/lapis_hoe"
+        },
+//Ruby
+        "ruby_sword_item": {
+            "textures": "textures/items/equipment/ruby/tools/ruby_sword"
+        },
+        "ruby_axe_item": {
+            "textures": "textures/items/equipment/ruby/tools/ruby_axe"
+        },
+        "ruby_pickaxe_item": {
+            "textures": "textures/items/equipment/ruby/tools/ruby_pickaxe"
+        },
+        "ruby_shovel_item": {
+            "textures": "textures/items/equipment/ruby/tools/ruby_shovel"
+        },
+        "ruby_hoe_item": {
+            "textures": "textures/items/equipment/ruby/tools/ruby_hoe"
+        },
+///ITEMS///
+        "chromium_ingot_item": {
+            "textures": "textures/items/chromium_ingot"
+        },
+        "chromium_raw_item": {
+            "textures": "textures/items/chromium_raw"
+        },
+        "puppys_collar_item": {
+            "textures": "textures/items/puppy/puppys_collar"
+        },
+        "ruby_item": {
+            "textures": "textures/items/ruby"
+        },
+///NATURE///
+//Mob Eggs//
+        "billy_item": {
+            "textures": "textures/items/billy"
+        }
+    }
+}

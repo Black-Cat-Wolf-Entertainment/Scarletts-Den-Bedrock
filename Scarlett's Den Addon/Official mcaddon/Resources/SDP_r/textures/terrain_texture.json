@@ -1,0 +1,20 @@
+{
+    "texture_name": "atlas.terrain",
+    "resource_pack_name": "bcwe_sd",
+    "num_mip_levels": 4,
+    "padding": 8,
+    "texture_data": {
+        //CONSTRUCTION
+        "ruby_block": {
+            "textures": "textures/blocks/ruby_block"
+        },
+
+        //NATURE
+        "ruby_ore": {
+            "textures": "textures/blocks/ruby_ore"
+        },
+        "deepslate_ruby_ore": {
+            "textures": "textures/blocks/deepslate/deepslate_ruby_ore"
+        }
+    }
+}
