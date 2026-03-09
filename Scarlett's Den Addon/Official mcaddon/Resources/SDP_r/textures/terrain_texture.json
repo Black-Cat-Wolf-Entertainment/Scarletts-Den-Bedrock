@@ -4,12 +4,12 @@
     "num_mip_levels": 4,
     "padding": 8,
     "texture_data": {
-        //CONSTRUCTION
+//CONSTRUCTION
         "ruby_block": {
             "textures": "textures/blocks/ruby_block"
         },
 
-        //NATURE
+//NATURE
         "ruby_ore": {
             "textures": "textures/blocks/ruby_ore"
         },
