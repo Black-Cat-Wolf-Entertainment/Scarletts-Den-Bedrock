@@ -1,5 +1,4 @@
 # Scarlett's Den: Bedrock
-WE ARE NOT AFFILIATED WITH THE MARKETPLACE!
 Welcome to a passion project that my fiancé and I are developing out of love for Minecraft! The full 1.0 release will include the following
 
 1. Variety of new armor and tools to play with!
@@ -10,3 +9,5 @@ Welcome to a passion project that my fiancé and I are developing out of love fo
 6. Two new structures to find!
 7. New biome to go explore in!
 8. Much more!
+
+WE ARE NOT AFFILIATED WITH THE MINECRAFT MARKETPLACE!
