@@ -11,7 +11,7 @@ Welcome to a passion project that my fiancé and I are developing out of love fo
 8. Much more!
 
 # WE ARE NOT AFFILIATED WITH THE MINECRAFT MARKETPLACE!
-We will not or atempt to put our project on the marketplace, it is strictly made from the love of the game and not for the money
+We will not or attempt to put our project on the marketplace, it is strictly made from the love of the game and not for the money
 
 
 # How To Setup:
