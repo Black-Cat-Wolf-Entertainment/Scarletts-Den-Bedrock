@@ -28,4 +28,4 @@ These options change overtime so we will try to be consistent, anyway here is wh
  # Multiplayer Compatiblity:
  Pretty straight forward from here
  1. Shared packs: You will have to turn Shared Packs on so that way you friends will have to download the pack!
- 2. Who can join: This is optional obviously but you can set to your invite only, friends only, or friends of friends :)
+ 2. Who can join: This is optional obviously but you can set to invite only, friends only, or friends of friends :)
