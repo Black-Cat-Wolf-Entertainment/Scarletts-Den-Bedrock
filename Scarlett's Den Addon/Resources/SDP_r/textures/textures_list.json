@@ -1,0 +1,111 @@
+[
+//////TITLE/LOGO//////
+    "textures/ui/title",
+    "textures/ui/beta/Phase_1/scarletts_den_public_beta_logo",
+//////STAFF ONLY//////
+///ITEMS///
+//Changelog Book
+    "textures/items/changelog_book",
+////////////////////////////////////////////
+///CONSTRUCTION///
+//Ore Blocks//
+//Ruby
+    "textures/blocks/ruby_block",
+////////////////////////////////////////////
+///EQUIPMENT///
+//Armor//
+//Amethyst
+    "textures/models/armor/amethyst/amethyst_main",
+    "textures/models/armor/amethyst/amethsyt_legs",
+
+    "textures/items/equipment/amethyst/armor/amethyst_helmet",
+    "textures/items/equipment/amethyst/armor/amethyst_chestplate",
+    "textures/items/equipment/amethyst/armor/amethyst_leggings",
+    "textures/items/equipment/amethyst/armor/amethyst_boots",
+
+//Emerald
+    "textures/models/armor/emerald/emerald_main",
+    "textures/models/armor/emerald/emerald_legs",
+
+    "textures/items/equipment/emerald/armor/emerald_helmet",
+    "textures/items/equipment/emerald/armor/emerald_chestplate",
+    "textures/items/equipment/emerald/armor/emerald_leggings",
+    "textures/items/equipment/emerald/armor/emerald_boots",
+
+//Lapis Lazuli
+    "textures/models/armor/lapis/lapis_main",
+    "textures/models/armor/lapis/lapis_legs",
+
+    "textures/items/equipment/lapis/armor/lapis_helmet",
+    "textures/items/equipment/lapis/armor/lapis_chestplate",
+    "textures/items/equipment/lapis/armor/lapis_leggings",
+    "textures/items/equipment/lapis/armor/lapis_boots",
+
+//Ruby
+    "textures/models/armor/ruby/ruby_main",
+    "textures/models/armor/ruby/ruby_legs",
+
+    "textures/items/equipment/ruby/armor/ruby_helmet",
+    "textures/items/equipment/ruby/armor/ruby_chestplate",
+    "textures/items/equipment/ruby/armor/ruby_leggings",
+    "textures/items/equipment/ruby/armor/ruby_boots",
+
+//Tools//
+//Amethyst
+    "textures/items/equipment/amethyst/tools/amethyst_sword",
+    "textures/items/equipment/amethyst/tools/amethyst_shovel",
+    "textures/items/equipment/amethyst/tools/amethyst_pickaxe",
+    "textures/items/equipment/amethyst/tools/amethyst_hoe",
+    "textures/items/equipment/amethyst/tools/amethyst_axe",
+
+//Emerald
+    "textures/items/equipment/emerald/tools/emerald_sword",
+    "textures/items/equipment/emerald/tools/emerald_shovel",
+    "textures/items/equipment/emerald/tools/emerald_pickaxe",
+    "textures/items/equipment/emerald/tools/emerald_hoe",
+    "textures/items/equipment/emerald/tools/emerald_axe",
+
+//Lapis Lazuli
+    "textures/items/equipment/lapis/tools/lapis_sword",
+    "textures/items/equipment/lapis/tools/lapis_shovel",
+    "textures/items/equipment/lapis/tools/lapis_pickaxe",
+    "textures/items/equipment/lapis/tools/lapis_hoe",
+    "textures/items/equipment/lapis/tools/lapis_axe",
+
+//Ruby
+    "textures/items/equipment/ruby/tools/ruby_sword",
+    "textures/items/equipment/ruby/tools/ruby_shovel",
+    "textures/items/equipment/ruby/tools/ruby_pickaxe",
+    "textures/items/equipment/ruby/tools/ruby_hoe",
+    "textures/items/equipment/ruby/tools/ruby_axe",
+////////////////////////////////////////////
+///ITEMS///
+//Ruby
+    "textures/items/ruby/ruby",
+////////////////////////////////////////////
+///NATURE///
+//Ores//
+    "textures/blocks/deepslate/deepslate_coal_ore",
+    "textures/blocks/deepslate/deepslate_copper_ore",
+    "textures/blocks/deepslate/deepslate_diamond_ore",
+    "textures/blocks/deepslate/deepslate_emerald_ore",
+    "textures/blocks/deepslate/deepslate_gold_ore",
+    "textures/blocks/deepslate/deepslate_iron_ore",
+    "textures/blocks/deepslate/deepslate_lapis_ore",
+    "textures/blocks/deepslate/deepslate_redstone_ore",
+    "textures/blocks/deepslate/deepslate_ruby_ore",
+
+    "textures/blocks/coal_ore",
+    "textures/blocks/copper_ore",
+    "textures/blocks/diamnd_ore",
+    "textures/blocks/emerald_ore",
+    "textures/blocks/gold_ore",
+    "textures/blocks/iron_ore",
+    "textures/blocks/lapis_ore",
+    "textures/blocks/redstone_ore",
+    "textures/blocks/ruby_ore",
+
+    "textures/blocks/nether_gold_ore",
+    "textures/blocks/quartz_ore"
+////////////////////////////////////////////
+]

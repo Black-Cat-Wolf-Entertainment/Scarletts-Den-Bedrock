@@ -1,0 +1,57 @@
+{
+    "format_version": "1.26.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "bcwe_sd:lapis_shovel",
+            "menu_category": {
+                "category": "equipment",
+                "group": "minecraft:itemGroup.name.shovel"
+            }
+        },
+        "components": {
+            "minecraft:max_stack_size": 1,
+            "minecraft:hand_equipped": true,
+            "minecraft:can_destroy_in_creative": true,
+            "minecraft:icon": {
+                "textures": {
+                    "default": "lapis_shovel_item"
+                }
+            },
+            "minecraft:display_name": {
+                "value": "item.bcwe_sd:lapis_shovel"
+            },
+            "minecraft:durability": {
+                "max_durability": 1825
+            },
+            "minecraft:damage": {
+                "value": 5
+            },
+            "minecraft:enchantable": {
+                "slot": "shovel",
+                "value": 10
+            },
+            "minecraft:repairable": {
+                "repair_items": [
+                    {
+                        "items": ["bcwe_sd:lapis_shovel"],
+                        "repair_amount": "context.other->q.remaining_durability + 0.05 * context.other->q.max_durability"
+                    }
+                ]
+            },
+            "minecraft:digger": {
+                "use_efficiency": true,
+                "destroy_speeds": [
+                    {
+                        "block": {
+                            "tags": "q.any_tag('minecraft:is_shovel_item_destructible')"
+                        },
+                        "speed": 5
+                    }
+                ]
+            },
+            "minecraft:tags": {
+                "tags": ["minecraft:is_tool", "minecraft:is_shovel", "minecraft:digger", "bcwe_sd:lapis_tier"]
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "ruby_block_to_ruby"
+        },
+        "tags": ["crafting_table"],
+        "ingredients": [
+            {
+                "item": "bcwe_sd:ruby_block"
+            }
+        ],
+        "result": {
+            "item": "bcwe_sd:ruby",
+            "count": 9
+        },
+        "unlock": [
+            {
+                "item": "bcwe_sd:ruby"
+            },
+            {
+                "tag": "bcwe_sd:ruby_tier"
+            }
+        ]
+    }
+}
