@@ -16,7 +16,7 @@ We will not or attempt to put our project on the marketplace, it is strictly mad
 
 # How To Setup:
 Here is what you need to do in order to setup the game for it to work!
-1. Worlds: You can add it to a pre-exsisting one or generate a new one! The ore(s) will not generate naturally in a exsisting world
+1. Worlds: You can add it to a pre-exsisting one or generate a new one! The ore(s) and or structure(s) will not generate naturally in a exsisting world
 2. Resources & Behaviors(Obviously XD): You will have to make sure that both are enabled and it is eternally connected  aka one can't work without the other
 
 # Experiments:
