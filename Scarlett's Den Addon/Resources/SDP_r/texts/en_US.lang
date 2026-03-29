@@ -1,0 +1,63 @@
+pack.name=Scarlett's Den: Public Beta Release [R]
+pack.description=Resources for Scarlett's Den
+###/////////////////////////////////////////////###
+###STAFF ONLY###
+item.bcwe_sd:changelog_book=§eChange Logs: §3Scarlett's Den\n§9Scarlett's Den§r
+###CONSTRUCTION###
+##Ore Blocks##
+tile.bcwe_sd:ruby_block.name=Ruby Block\n§9Scarlett's Den§r
+###EQUIPMENT###
+##Armor##
+##Amethyst
+item.bcwe_sd:amethyst_helmet=Amethyst Helmet\n§9Scarlett's Den§r
+item.bcwe_sd:amethyst_chestplate=Amethyst Chestplate\n§9Scarlett's Den§r
+item.bcwe_sd:amethyst_leggings=Amethyst Leggings\n§9Scarlett's Den§r
+item.bcwe_sd:amethyst_boots=Amethyst Boots\n§9Scarlett's Den§r
+##Emerald
+item.bcwe_sd:emerald_helmet=Emerald Helmet\n§9Scarlett's Den§r
+item.bcwe_sd:emerald_chestplate=Emerald Chestplate\n§9Scarlett's Den§r
+item.bcwe_sd:emerald_leggings=Emerald Leggings\n§9Scarlett's Den§r
+item.bcwe_sd:emerald_boots=Emerald Boots\n§9Scarlett's Den§r
+##Lapis
+item.bcwe_sd:lapis_helmet=Lapis Helmet\n§9Scarlett's Den§r
+item.bcwe_sd:lapis_chestplate=Lapis Chestplate\n§9Scarlett's Den§r
+item.bcwe_sd:lapis_leggings=Lapis Leggings\n§9Scarlett's Den§r
+item.bcwe_sd:lapis_boots=Lapis Boots\n§9Scarlett's Den§r
+##Ruby
+item.bcwe_sd:ruby_helmet=Ruby Helmet\n§9Scarlett's Den§r
+item.bcwe_sd:ruby_chestplate=Ruby Chestplate\n§9Scarlett's Den§r
+item.bcwe_sd:ruby_leggings=Ruby Leggings\n§9Scarlett's Den§r
+item.bcwe_sd:ruby_boots=Ruby Boots\n§9Scarlett's Den§r
+##Tools##
+##Amethyst
+item.bcwe_sd:amethyst_axe=Amethyst Axe\n§9Scarlett's Den§r
+item.bcwe_sd:amethyst_hoe=Amethyst Hoe\n§9Scarlett's Den§r
+item.bcwe_sd:amethyst_pickaxe=Amethyst Pickaxe\n§9Scarlett's Den§r
+item.bcwe_sd:amethyst_shovel=Amethyst Shovel\n§9Scarlett's Den§r
+item.bcwe_sd:amethyst_sword=Amethyst Sword\n§9Scarlett's Den§r
+##Emerald
+item.bcwe_sd:emerald_axe=Emerald Axe\n§9Scarlett's Den§r
+item.bcwe_sd:emerald_hoe=Emerald Hoe\n§9Scarlett's Den§r
+item.bcwe_sd:emerald_pickaxe=Emerald Pickaxe\n§9Scarlett's Den§r
+item.bcwe_sd:emerald_shovel=Emerald Shovel\n§9Scarlett's Den§r
+item.bcwe_sd:emerald_sword=Emerald Sword\n§9Scarlett's Den§r
+##Lapis
+item.bcwe_sd:lapis_axe=Lapis Axe\n§9Scarlett's Den§r
+item.bcwe_sd:lapis_hoe=Lapis Hoe\n§9Scarlett's Den§r
+item.bcwe_sd:lapis_pickaxe=Lapis Pickaxe\n§9Scarlett's Den§r
+item.bcwe_sd:lapis_shovel=Lapis Shovel\n§9Scarlett's Den§r
+item.bcwe_sd:lapis_sword=Lapis Sword\n§9Scarlett's Den§r
+##Ruby
+item.bcwe_sd:ruby_axe=Ruby Axe\n§9Scarlett's Den§r
+item.bcwe_sd:ruby_hoe=Ruby Hoe\n§9Scarlett's Den§r
+item.bcwe_sd:ruby_pickaxe=Ruby Pickaxe\n§9Scarlett's Den§r
+item.bcwe_sd:ruby_shovel=Ruby Shovel\n§9Scarlett's Den§r
+item.bcwe_sd:ruby_sword=Ruby Sword\n§9Scarlett's Den§r
+###ITEMS###
+item.bcwe_sd:ruby=Ruby\n§9Scarlett's Den§r
+###NATURE###
+##Ores##
+##Ruby
+tile.bcwe_sd:ruby_ore.name=Ruby Ore\n§9Scarlett's Den§r
+tile.bcwe_sd:deepslate_ruby_ore.name=Deepslate Ruby Ore\n§9Scarlett's Den§r
+###/////////////////////////////////////////////###

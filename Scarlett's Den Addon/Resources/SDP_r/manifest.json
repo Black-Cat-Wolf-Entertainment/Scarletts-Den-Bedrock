@@ -1,0 +1,43 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": ["Black Cat & Wolf Entertainment"],
+        "license": "All Rights Reserved",
+        "product_type": "addon",
+        "url": "https://www.youtube.com/@ScarlettsDenMCBEOfficial"
+    },
+    "header": {
+        "name": "pack.name",
+        "description": "pack.description",
+        "uuid": "9c4ae7d5-1efb-4042-94fa-30129a84b256",
+        "min_engine_version": [1, 26, 10],
+        "version": [1, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "This is for identifing this pack as resources",
+            "type": "resources",
+            "uuid": "a2923092-e563-4bc4-95b2-9cb2e47fe1f4",
+            "version": [1, 0, 0]
+        }
+    ],
+    "capabilities": ["pbr"],
+    "subpacks": [
+        {
+            "folder_name": "subpack_1",
+            "name": "Ores w/o Outlines",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "subpack_2",
+            "name": "Ores w/ Outlines",
+            "memory_tier": 0
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "86edec16-719b-4d38-a194-c6f46d0a89a6",
+            "version": [1, 0, 1]
+        }
+    ]
+}

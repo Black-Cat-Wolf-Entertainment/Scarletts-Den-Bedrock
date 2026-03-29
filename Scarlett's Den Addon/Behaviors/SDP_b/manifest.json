@@ -1,0 +1,51 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": ["Black Cat & Wolf Entertainment"],
+        "license": "All Rights Reserved",
+        "product_type": "addon",
+        "url": "https://www.youtube.com/@ScarlettsDenMCBEOfficial"
+    },
+    "header": {
+        "name": "pack.name",
+        "description": "pack.description",
+        "uuid": "86edec16-719b-4d38-a194-c6f46d0a89a6",
+        "min_engine_version": [1, 26, 10],
+        "version": [1, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "This is for identifing this pack as behaviors",
+            "type": "data",
+            "uuid": "26bec74b-ff91-48d2-9f12-6079c57c4b78",
+            "version": [1, 0, 0]
+        },
+        {
+            "description": "This is for scripts",
+            "type": "script",
+            "language": "javascript",
+            "entry": "scripts/main.js",
+            "uuid": "220721b8-a0b6-43cf-aef9-24a5f15ad45c",
+            "version": [0, 1, 0]
+        }
+    ],
+    "capabilities": ["script_eval"],
+    "dependencies": [
+        {
+            "uuid": "9c4ae7d5-1efb-4042-94fa-30129a84b256",
+            "version": [1, 0, 1]
+        },
+        {
+            "module_name": "@minecraft/server",
+            "version": "beta"
+        },
+        {
+            "module_name": "@minecraft/server-gametest",
+            "version": "beta"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "beta"
+        }
+    ]
+}
