@@ -1,4 +1,4 @@
-# Scarlett's Den: Bedrock
+# Scarlett's Den: Bedrock Public Beta
 Welcome to a passion project that my fiancé and I are developing out of love for Minecraft! The full 1.0 release will include the following
 
 1. Variety of new armor and tools to play with!
