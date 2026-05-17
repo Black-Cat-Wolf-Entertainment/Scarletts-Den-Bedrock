@@ -1,4 +1,4 @@
-# Scarlett's Den: Bedrock Beta Preview-v1.0.1-1.26.10 Update
+# Scarlett's Den: Bedrock Beta Preview
 Welcome to a passion project that my fiancé and I are developing out of love for Minecraft! The full 1.0 release will include the following; Note that the beta preview it will change overtime if and when something new comes out or something breaks in the addon!
 
 1. Variety of new armor and tools to play with!
