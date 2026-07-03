@@ -33,7 +33,7 @@
     "dependencies": [
         {
             "uuid": "7152f10f-0ab2-47d2-bc69-874b3ec35731",
-            "version": [1, 0, 1]
+            "version": [1, 0, 2]
         },
         {
             "module_name": "@minecraft/server",
