@@ -24,7 +24,7 @@ world.beforeEvents.itemUse.subscribe(data => {
     function PBL() {
         new ActionFormData()
         .title(`Latest Public Beta Logs`)
-        .body(`Scarlett's Den: Public Beta 1.0 [1.0.1] 1.26.10 Patch\n\n§oHello everyone FloofyPotato here, this patch is dedicated to fix some features that were rushed or partially working§r\n\n§e§lPatch Notes§r:\n1. 1.26.10: It's updated to the latest version of Minecraft Bedrock!\n2. Spawn book fixed: I rushed the Change Log book for Scarlett's Den and broke it so my bad\n3. More Functionality: Add more ways to mine the new Ruby Ore with it's own tools along with Amethyst and Emerald\n4. Durability & Damage Optimizations: I realized it wasn't really fair and completely unbalanced so I hope this helps!`)
+        .body(`§3Scarlett's Den: §6Public Beta §a1.0[1.0.2]§r 1.26.30[Chaos Cubed] Patch\n\n§oHello everyone Floofy here, this patch is dedicated to fix compatibility issues that came with the latest update, here is what is being changed§r\n\nPatch Notes: §l1.26.30[Chaos Cubed]§r:\n\n1. It's updated to the latest version of Minecraft Bedrock!\n\n2. §lItems and Blocks fixed§r:\n\n§oI have updated all of the available items and blocks, I have realized that the loot tables were missing so that has been added!§r\n\n3. §lDurability & Damage Optimizations§r:\n\n§oI am still working on it! It will take time but I will say that it's almost done§r\n\n4. §lWill this get updates and be maintained after 1.0 launches?§r\n\n§oI know this will probably not have very many people asking but I will answer anyway\n\nWe don't know yet, but we would like to do something special for the public beta testers after the full addon comes out which we will make an application for the supporters who are on the Discord Server\n\nIf you're curious, go to the top right in the description on Github to join for future updates!§r`)
         .button(`§6Old Public Beta Logs§r\n§7[Opens Old Public Beta Logs]`)
         .button(`§c§lBack§r\n§7[Leaves Latest Public Beta Logs]`)
         .show(player).then(r => {
@@ -37,13 +37,13 @@ world.beforeEvents.itemUse.subscribe(data => {
         new ActionFormData()
         .title(`Old Public Beta Logs`)
         .body(`This is the backlog of all updates for the Public Beta!`)
-        //.button(`1.0.1-1.26.10 Patch`)
+        .button(`1.0.1-1.26.10 Patch`)
         .button(`1.0.0-1.26.0 Launch`)
         .button(`Back`)
         .show(player).then(r => {
-            //if(r.selection == 0) OPBL101PATCH()
-            if(r.selection == 0) OPBL100LAUNCH()
-            if(r.selection == 1) PBL()
+            if(r.selection == 0) OPBL101PATCH()
+            if(r.selection == 1) OPBL100LAUNCH()
+            if(r.selection == 2) PBL()
         })
     }
 

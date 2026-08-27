@@ -22,10 +22,7 @@ const BlockExperienceRewardComponent = {
                 !itemStack.hasTag("minecraft:iron_tier") &&
                 !itemStack.hasTag("minecraft:diamond_tier") &&
                 !itemStack.hasTag("minecraft:netherite_tier") &&
-                !itemStack.hasTag("bcwe_sd:ruby_tier") &&
-                !itemStack.hasTag("bcwe_sd:amethyst_tier") &&
-                !itemStack.hasTag("bcwe_sd:emerald_tier") &&
-                !itemStack.hasTag("bcwe_sd:lapis_tier")
+                !itemStack.hasTag("bcwe_sd:ruby_tier")
             )
         )
         return;
