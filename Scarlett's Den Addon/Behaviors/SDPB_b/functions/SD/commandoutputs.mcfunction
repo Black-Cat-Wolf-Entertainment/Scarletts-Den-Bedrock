@@ -1,2 +1,2 @@
 gamerule commandBlockOutput false
-gamerule sendCommandFeedback false
+gamerule sendCommandFeedback true

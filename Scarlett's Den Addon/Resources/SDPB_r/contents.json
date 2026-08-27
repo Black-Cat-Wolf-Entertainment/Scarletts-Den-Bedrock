@@ -1,42 +1,6 @@
 {
    "content" : [
       {
-         "path" : "attachables/armor/amethyst/amethyst_boots.attachable.json"
-      },
-      {
-         "path" : "attachables/armor/amethyst/amethyst_chestplate.attachable.json"
-      },
-      {
-         "path" : "attachables/armor/amethyst/amethyst_helmet.attachable.json"
-      },
-      {
-         "path" : "attachables/armor/amethyst/amethyst_leggings.attachable.json"
-      },
-      {
-         "path" : "attachables/armor/emerald/emerald_boots.attachable.json"
-      },
-      {
-         "path" : "attachables/armor/emerald/emerald_chestplate.attachable.json"
-      },
-      {
-         "path" : "attachables/armor/emerald/emerald_helmet.attachable.json"
-      },
-      {
-         "path" : "attachables/armor/emerald/emerald_leggings.attachable.json"
-      },
-      {
-         "path" : "attachables/armor/lapis/lapis_boots.attachable.json"
-      },
-      {
-         "path" : "attachables/armor/lapis/lapis_chestplate.attachable.json"
-      },
-      {
-         "path" : "attachables/armor/lapis/lapis_helmet.attachable.json"
-      },
-      {
-         "path" : "attachables/armor/lapis/lapis_leggings.attachable.json"
-      },
-      {
          "path" : "attachables/armor/ruby/ruby_boots.attachable.json"
       },
       {
@@ -61,10 +25,16 @@
          "path" : "pack_icon.png"
       },
       {
+         "path" : "subpacks/subpack_1/textures/blocks/chromium_ore.png"
+      },
+      {
          "path" : "subpacks/subpack_1/textures/blocks/coal_ore.png"
       },
       {
          "path" : "subpacks/subpack_1/textures/blocks/copper_ore.png"
+      },
+      {
+         "path" : "subpacks/subpack_1/textures/blocks/deepslate/deepslate_chromium_ore.png"
       },
       {
          "path" : "subpacks/subpack_1/textures/blocks/deepslate/deepslate_coal_ore.png"
@@ -121,10 +91,16 @@
          "path" : "subpacks/subpack_1/textures/blocks/ruby_ore.png"
       },
       {
+         "path" : "subpacks/subpack_2/textures/blocks/chromium_ore.png"
+      },
+      {
          "path" : "subpacks/subpack_2/textures/blocks/coal_ore.png"
       },
       {
          "path" : "subpacks/subpack_2/textures/blocks/copper_ore.png"
+      },
+      {
+         "path" : "subpacks/subpack_2/textures/blocks/deepslate/deepslate_chromium_ore.png"
       },
       {
          "path" : "subpacks/subpack_2/textures/blocks/deepslate/deepslate_coal_ore.png"
@@ -253,88 +229,7 @@
          "path" : "textures/item_texture.json"
       },
       {
-         "path" : "textures/items/changelog_book.png"
-      },
-      {
-         "path" : "textures/items/equipment/amethyst/armor/amethyst_boots.png"
-      },
-      {
-         "path" : "textures/items/equipment/amethyst/armor/amethyst_chestplate.png"
-      },
-      {
-         "path" : "textures/items/equipment/amethyst/armor/amethyst_helmet.png"
-      },
-      {
-         "path" : "textures/items/equipment/amethyst/armor/amethyst_leggings.png"
-      },
-      {
-         "path" : "textures/items/equipment/amethyst/tools/amethyst_axe.png"
-      },
-      {
-         "path" : "textures/items/equipment/amethyst/tools/amethyst_hoe.png"
-      },
-      {
-         "path" : "textures/items/equipment/amethyst/tools/amethyst_pickaxe.png"
-      },
-      {
-         "path" : "textures/items/equipment/amethyst/tools/amethyst_shovel.png"
-      },
-      {
-         "path" : "textures/items/equipment/amethyst/tools/amethyst_sword.png"
-      },
-      {
-         "path" : "textures/items/equipment/emerald/armor/emerald_boots.png"
-      },
-      {
-         "path" : "textures/items/equipment/emerald/armor/emerald_chestplate.png"
-      },
-      {
-         "path" : "textures/items/equipment/emerald/armor/emerald_helmet.png"
-      },
-      {
-         "path" : "textures/items/equipment/emerald/armor/emerald_leggings.png"
-      },
-      {
-         "path" : "textures/items/equipment/emerald/tools/emerald_axe.png"
-      },
-      {
-         "path" : "textures/items/equipment/emerald/tools/emerald_hoe.png"
-      },
-      {
-         "path" : "textures/items/equipment/emerald/tools/emerald_pickaxe.png"
-      },
-      {
-         "path" : "textures/items/equipment/emerald/tools/emerald_shovel.png"
-      },
-      {
-         "path" : "textures/items/equipment/emerald/tools/emerald_sword.png"
-      },
-      {
-         "path" : "textures/items/equipment/lapis/armor/lapis_boots.png"
-      },
-      {
-         "path" : "textures/items/equipment/lapis/armor/lapis_chestplate.png"
-      },
-      {
-         "path" : "textures/items/equipment/lapis/armor/lapis_helmet.png"
-      },
-      {
-         "path" : "textures/items/equipment/lapis/armor/lapis_leggings.png"
-      },
-      {
-         "path" : "textures/items/equipment/lapis/tools/lapis_axe.png"
-      },
-      {
-         "path" : "textures/items/equipment/lapis/tools/lapis_hoe.png"
-      },
-      {
-         "path" : "textures/items/equipment/lapis/tools/lapis_pickaxe.png"
-      },
-      {
-         "path" : "textures/items/equipment/lapis/tools/lapis_shovel.png"
-      },
-      {
-         "path" : "textures/items/equipment/lapis/tools/lapis_sword.png"
+         "path" : "textures/items/change_log_book.png"
       },
       {
          "path" : "textures/items/equipment/ruby/armor/ruby_boots.png"
@@ -365,24 +260,6 @@
       },
       {
          "path" : "textures/items/ruby.png"
-      },
-      {
-         "path" : "textures/models/armor/amethyst/amethyst_legs.png"
-      },
-      {
-         "path" : "textures/models/armor/amethyst/amethyst_main.png"
-      },
-      {
-         "path" : "textures/models/armor/emerald/emerald_legs.png"
-      },
-      {
-         "path" : "textures/models/armor/emerald/emerald_main.png"
-      },
-      {
-         "path" : "textures/models/armor/lapis/lapis_legs.png"
-      },
-      {
-         "path" : "textures/models/armor/lapis/lapis_main.png"
       },
       {
          "path" : "textures/models/armor/ruby/ruby_legs.png"

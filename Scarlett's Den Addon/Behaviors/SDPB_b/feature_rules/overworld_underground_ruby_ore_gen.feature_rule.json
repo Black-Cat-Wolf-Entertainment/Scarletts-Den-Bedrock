@@ -28,16 +28,17 @@
             "iterations": 7,
             "coordinate_eval_order": "xyz",
             "x": {
-                "distribution": "uniform",
-                "extent": [0, 16]
+                "extent": [0, 16],
+                "distribution": "uniform"
             },
             "y": {
-                "distribution": "uniform",
-                "extent": [-62, 16]
+                
+                "extent": [-62, 16],
+                "distribution": "uniform"
             },
             "z": {
-                "distribution": "uniform",
-                "extent": [0, 16]
+                "extent": [0, 16],
+                "distribution": "uniform"
             }
         }
     }

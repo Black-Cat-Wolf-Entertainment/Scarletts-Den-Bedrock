@@ -17,7 +17,7 @@
                 }
             },
             "minecraft:display_name": {
-                "value": "item.bcwe_sd:ruby_chestplate"
+                "value": "item.bcwe_sd:ruby_chestplate.name"
             },
             "minecraft:durability": {
                 "max_durability": 2116

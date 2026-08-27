@@ -18,7 +18,7 @@
                 }
             },
             "minecraft:display_name": {
-                "value": "item.bcwe_sd:ruby_pickaxe"
+                "value": "item.bcwe_sd:ruby_pickaxe.name"
             },
             "minecraft:durability": {
                 "max_durability": 2104
@@ -45,7 +45,7 @@
                         "block": {
                             "tags": "q.any_tag('minecraft:is_pickaxe_item_destructible')"
                         },
-                        "speed": 5
+                        "speed": 2
                     }
                 ]
             },

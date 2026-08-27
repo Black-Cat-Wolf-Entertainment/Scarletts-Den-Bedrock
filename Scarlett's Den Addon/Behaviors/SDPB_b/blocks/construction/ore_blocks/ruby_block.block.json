@@ -40,24 +40,6 @@
                             "tags": "q.all_tags('minecraft:is_tool', 'minecraft:is_pickaxe') && q.any_tag('bcwe_sd:ruby_tier')"
                         },
                         "destroy_speed": 4.05
-                    },
-                    {
-                        "item": {
-                            "tags": "q.all_tags('minecraft:is_tool', 'minecraft:is_pickaxe') && q.any_tag('bcwe_sd:amethyst_tier')"
-                        },
-                        "destroy_speed": 4.04
-                    },
-                    {
-                        "item": {
-                            "tags": "q.all_tags('minecraft:is_tool', 'minecraft:is_pickaxe') && q.any_tag('bcwe_sd:emerald_tier')"
-                        },
-                        "destroy_speed": 4.06
-                    },
-                    {
-                        "item": {
-                            "tags": "q.all_tags('minecraft:is_tool', 'minecraft:is_pickaxe') && q.any_tag('bcwe_sd:lapis_tier')"
-                        },
-                        "destroy_speed": 4.13
                     }
                 ]
             },

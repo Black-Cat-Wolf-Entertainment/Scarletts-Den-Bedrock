@@ -13,10 +13,10 @@
                         "minecraft:iron_tier",
                         "minecraft:diamond_tier",
                         "minecraft:netherite_tier",
+                        "bcwe_sd:ruby_tier",
                         "bcwe_sd:amethyst_tier",
                         "bcwe_sd:emerald_tier",
-                        "bcwe_sd:lapis_tier",
-                        "bcwe_sd:ruby_tier"
+                        "bcwe_sd:lapis_tier"
                     ]
                 }
             ],

@@ -1,6 +1,7 @@
 {
     "format_version": "1.21.40",
 ///CONSTRUCTION///
+//Ruby Ore Block
     "bcwe_sd:ruby_block": {
         "textures": "ruby_block",
         "sound": "stone"

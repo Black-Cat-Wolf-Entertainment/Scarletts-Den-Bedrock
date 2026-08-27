@@ -34,42 +34,6 @@
          "path" : "functions/tick.json"
       },
       {
-         "path" : "items/equipment/armor/amethyst/amethyst_boots.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/armor/amethyst/amethyst_chestplate.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/armor/amethyst/amethyst_helmet.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/armor/amethyst/amethyst_leggings.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/armor/emerald/emerald_boots.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/armor/emerald/emerald_chestplate.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/armor/emerald/emerald_helmet.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/armor/emerald/emerald_leggings.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/armor/lapis/lapis_boots.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/armor/lapis/lapis_chestplate.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/armor/lapis/lapis_helmet.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/armor/lapis/lapis_leggings.item.bp.json"
-      },
-      {
          "path" : "items/equipment/armor/ruby/ruby_boots.item.bp.json"
       },
       {
@@ -80,51 +44,6 @@
       },
       {
          "path" : "items/equipment/armor/ruby/ruby_leggings.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/tools/amethyst/amethyst_axe.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/tools/amethyst/amethyst_hoe.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/tools/amethyst/amethyst_pickaxe.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/tools/amethyst/amethyst_shovel.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/tools/amethyst/amethyst_sword.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/tools/emerald/emerald_axe.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/tools/emerald/emerald_hoe.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/tools/emerald/emerald_pickaxe.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/tools/emerald/emerald_shovel.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/tools/emerald/emerald_sword.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/tools/lapis/lapis_axe.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/tools/lapis/lapis_hoe.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/tools/lapis/lapis_pickaxe.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/tools/lapis/lapis_shovel.item.bp.json"
-      },
-      {
-         "path" : "items/equipment/tools/lapis/lapis_sword.item.bp.json"
       },
       {
          "path" : "items/equipment/tools/ruby/ruby_axe.item.bp.json"
@@ -142,10 +61,10 @@
          "path" : "items/equipment/tools/ruby/ruby_sword.item.bp.json"
       },
       {
-         "path" : "items/items/changelog_book.item.bp.json"
+         "path" : "items/items/ore_loot/ruby.item.bp.json"
       },
       {
-         "path" : "items/items/ruby.item.bp.json"
+         "path" : "items/items/staff/change_log_book.item.bp.json"
       },
       {
          "path" : "loot_tables/blocks/construction/ore_blocks/ruby_block.loot.json"
@@ -166,42 +85,6 @@
          "path" : "recipes/crafting_table/construction/ore_blocks/ruby_block.recipe.json"
       },
       {
-         "path" : "recipes/crafting_table/equipment/armor/amethyst/amethyst_boots.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/armor/amethyst/amethyst_chestplate.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/armor/amethyst/amethyst_helmet.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/armor/amethyst/amethyst_leggings.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/armor/emerald/emerald_boots.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/armor/emerald/emerald_chestplate.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/armor/emerald/emerald_helmet.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/armor/emerald/emerald_leggings.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/armor/lapis/lapis_boots.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/armor/lapis/lapis_chestplate.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/armor/lapis/lapis_helmet.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/armor/lapis/lapis_leggings.recipe.json"
-      },
-      {
          "path" : "recipes/crafting_table/equipment/armor/ruby/ruby_boots.recipe.json"
       },
       {
@@ -212,51 +95,6 @@
       },
       {
          "path" : "recipes/crafting_table/equipment/armor/ruby/ruby_leggings.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/tools/amethyst/amethyst_axe.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/tools/amethyst/amethyst_hoe.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/tools/amethyst/amethyst_pickaxe.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/tools/amethyst/amethyst_shovel.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/tools/amethyst/amethyst_sword.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/tools/emerald/emerald_axe.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/tools/emerald/emerald_hoe.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/tools/emerald/emerald_pickaxe.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/tools/emerald/emerald_shovel.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/tools/emerald/emerald_sword.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/tools/lapis/lapis_axe.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/tools/lapis/lapis_hoe.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/tools/lapis/lapis_pickaxe.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/tools/lapis/lapis_shovel.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/equipment/tools/lapis/lapis_sword.recipe.json"
       },
       {
          "path" : "recipes/crafting_table/equipment/tools/ruby/ruby_axe.recipe.json"
@@ -272,45 +110,6 @@
       },
       {
          "path" : "recipes/crafting_table/equipment/tools/ruby/ruby_sword.recipe.json"
-      },
-      {
-         "path" : "recipes/crafting_table/items/ruby_block_to_ruby.recipe.json"
-      },
-      {
-         "path" : "recipes/decrafting/armor/SD/amethyst/amethyst_boots_decraft.recipe.json"
-      },
-      {
-         "path" : "recipes/decrafting/armor/SD/amethyst/amethyst_chestplate_decraft.recipe.json"
-      },
-      {
-         "path" : "recipes/decrafting/armor/SD/amethyst/amethyst_helmet_decraft.recipe.json"
-      },
-      {
-         "path" : "recipes/decrafting/armor/SD/amethyst/amethyst_leggings_decraft.recipe.json"
-      },
-      {
-         "path" : "recipes/decrafting/armor/SD/emerald/emerald_boots_decraft.recipe.json"
-      },
-      {
-         "path" : "recipes/decrafting/armor/SD/emerald/emerald_chestplate_decraft.recipe.json"
-      },
-      {
-         "path" : "recipes/decrafting/armor/SD/emerald/emerald_helmet_decraft.recipe.json"
-      },
-      {
-         "path" : "recipes/decrafting/armor/SD/emerald/emerald_leggings_decraft.recipe.json"
-      },
-      {
-         "path" : "recipes/decrafting/armor/SD/lapis/lapis_boots_decraft.recipe.json"
-      },
-      {
-         "path" : "recipes/decrafting/armor/SD/lapis/lapis_chestplate_decraft.recipe.json"
-      },
-      {
-         "path" : "recipes/decrafting/armor/SD/lapis/lapis_helmet_decraft.recipe.json"
-      },
-      {
-         "path" : "recipes/decrafting/armor/SD/lapis/lapis_leggings_decraft.recipe.json"
       },
       {
          "path" : "recipes/decrafting/armor/SD/ruby/ruby_boots_decraft.recipe.json"
@@ -403,10 +202,10 @@
          "path" : "scripts/SD/blocks/nature/ore_exp_rewards/ruby.js"
       },
       {
-         "path" : "scripts/main.js"
+         "path" : "scripts/SD/staff/change_log_book.js"
       },
       {
-         "path" : "scripts/staff/changelog_book.js"
+         "path" : "scripts/main.js"
       },
       {
          "path" : "texts/en_US.lang"
