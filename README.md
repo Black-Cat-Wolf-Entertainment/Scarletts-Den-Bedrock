@@ -19,7 +19,7 @@ Here is what you need to do in order to setup the game for it to work!
 1. Worlds: You can add it to a pre-exsisting one or generate a new one! The ore(s) and or structure(s) will not generate naturally in a exsisting world
 2. Resources & Behaviors(Obviously XD): You will have to make sure that both are enabled and it is eternally connected  aka one can't work without the other
 
-# Experiments:
+# Experiments(Optional):
 These options change overtime so we will try to be consistent, anyway here is what needs to be enabled as a requirment
 1. Upcoming Creator Features
 2. Beta APIs
