@@ -2,7 +2,7 @@ pack.name=Scarlett's Den: Public Beta Release [R]
 pack.description=Resources for Scarlett's Den
 ###/////////////////////////////////////////////###
 ###STAFF ONLY###
-item.bcwe_sd:change_log_book.name=§eChange Logs: §3Scarlett's Den\n§9Scarlett's Den§r
+item.bcwe_sd:changelog_book.name=§eChange Logs: §3Scarlett's Den\n§9Scarlett's Den§r
 ###CONSTRUCTION###
 ##Ore Blocks##
 tile.bcwe_sd:ruby_block.name=Ruby Block\n§9Scarlett's Den§r
@@ -19,6 +19,7 @@ item.bcwe_sd:ruby_axe.name=Ruby Axe\n§9Scarlett's Den§r
 item.bcwe_sd:ruby_hoe.name=Ruby Hoe\n§9Scarlett's Den§r
 item.bcwe_sd:ruby_pickaxe.name=Ruby Pickaxe\n§9Scarlett's Den§r
 item.bcwe_sd:ruby_shovel.name=Ruby Shovel\n§9Scarlett's Den§r
+item.bcwe_sd:ruby_spear.name=Ruby Spear\n§9Scarlett's Den§r
 item.bcwe_sd:ruby_sword.name=Ruby Sword\n§9Scarlett's Den§r
 ###ITEMS###
 item.bcwe_sd:ruby.name=Ruby\n§9Scarlett's Den§r

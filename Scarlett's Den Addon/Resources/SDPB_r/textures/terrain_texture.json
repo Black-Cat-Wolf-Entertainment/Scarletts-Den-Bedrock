@@ -10,6 +10,13 @@
         },
 ///NATURE///
 //Ores//
+//Chromium
+        "chromium_ore": {
+            "textures": "textures/blocks/chromium_ore"
+        },
+        "deepslate_chromium_ore": {
+            "textures": "textures/blocks/deepslate/deepslate_chromium_ore"
+        },
 //Ruby
         "ruby_ore": {
             "textures": "textures/blocks/ruby_ore"

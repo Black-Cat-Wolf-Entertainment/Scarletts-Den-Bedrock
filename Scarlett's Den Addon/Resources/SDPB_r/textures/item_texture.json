@@ -3,41 +3,44 @@
     "resource_pack_name": "bcwe_sd",
     "texture_data": {
 //////STAFF ONLY//////
-        "change_log_book_item": {
-            "textures": "textures/items/change_log_book"
+        "changelog_book_item": {
+            "textures": "textures/items/changelog_book"
         },
 /////////////////////////////
 ///EQUIPMENT///
 //Armor//
 //Ruby
         "ruby_helmet_item": {
-            "textures": "textures/items/equipment/ruby/armor/ruby_helmet"
+            "textures": "textures/items/equipment/armor/ruby/ruby_helmet"
         },
         "ruby_chestplate_item": {
-            "textures": "textures/items/equipment/ruby/armor/ruby_chestplate"
+            "textures": "textures/items/equipment/armor/ruby/ruby_chestplate"
         },
         "ruby_leggings_item": {
-            "textures": "textures/items/equipment/ruby/armor/ruby_leggings"
+            "textures": "textures/items/equipment/armor/ruby/ruby_leggings"
         },
         "ruby_boots_item": {
-            "textures": "textures/items/equipment/ruby/armor/ruby_boots"
+            "textures": "textures/items/equipment/armor/ruby/ruby_boots"
         },
 //Tools//
 //Ruby
         "ruby_axe_item": {
-            "textures": "textures/items/equipment/ruby/tools/ruby_axe"
+            "textures": "textures/items/equipment/tools/ruby/ruby_axe"
         },
         "ruby_hoe_item": {
-            "textures": "textures/items/equipment/ruby/tools/ruby_hoe"
+            "textures": "textures/items/equipment/tools/ruby/ruby_hoe"
         },
         "ruby_pickaxe_item": {
-            "textures": "textures/items/equipment/ruby/tools/ruby_pickaxe"
+            "textures": "textures/items/equipment/tools/ruby/ruby_pickaxe"
         },
         "ruby_shovel_item": {
-            "textures": "textures/items/equipment/ruby/tools/ruby_shovel"
+            "textures": "textures/items/equipment/tools/ruby/ruby_shovel"
+        },
+        "ruby_spear_item": {
+            "textures": "textures/items/equipment/spears/ruby_spear"
         },
         "ruby_sword_item": {
-            "textures": "textures/items/equipment/ruby/tools/ruby_sword"
+            "textures": "textures/items/equipment/tools/ruby/ruby_sword"
         },
 ///ITEMS///
 //Ruby

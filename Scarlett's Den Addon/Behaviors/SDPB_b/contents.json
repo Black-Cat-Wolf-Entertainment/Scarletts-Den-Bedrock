@@ -46,6 +46,9 @@
          "path" : "items/equipment/armor/ruby/ruby_leggings.item.bp.json"
       },
       {
+         "path" : "items/equipment/spears/ruby_spear.item.bp.json"
+      },
+      {
          "path" : "items/equipment/tools/ruby/ruby_axe.item.bp.json"
       },
       {
@@ -64,7 +67,7 @@
          "path" : "items/items/ore_loot/ruby.item.bp.json"
       },
       {
-         "path" : "items/items/staff/change_log_book.item.bp.json"
+         "path" : "items/items/staff/changelog_book.item.bp.json"
       },
       {
          "path" : "loot_tables/blocks/construction/ore_blocks/ruby_block.loot.json"
@@ -95,6 +98,9 @@
       },
       {
          "path" : "recipes/crafting_table/equipment/armor/ruby/ruby_leggings.recipe.json"
+      },
+      {
+         "path" : "recipes/crafting_table/equipment/spears/ruby_spear.recipe.json"
       },
       {
          "path" : "recipes/crafting_table/equipment/tools/ruby/ruby_axe.recipe.json"
@@ -202,7 +208,7 @@
          "path" : "scripts/SD/blocks/nature/ore_exp_rewards/ruby.js"
       },
       {
-         "path" : "scripts/SD/staff/change_log_book.js"
+         "path" : "scripts/SD/staff/changelog_book.js"
       },
       {
          "path" : "scripts/main.js"

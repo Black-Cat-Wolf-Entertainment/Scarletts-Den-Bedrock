@@ -1,8 +1,8 @@
 {
-    "format_version": "1.26.40",
+    "format_version": "1.26.50",
     "minecraft:item": {
         "description": {
-            "identifier": "bcwe_sd:change_log_book",
+            "identifier": "bcwe_sd:changelog_book",
             "menu_category": {
                 "category": "items"
             }
@@ -12,11 +12,11 @@
             "minecraft:can_destroy_in_creative": true,
             "minecraft:icon": {
                 "textures": {
-                    "default": "change_log_book_item"
+                    "default": "changelog_book_item"
                 }
             },
             "minecraft:display_name": {
-                "value": "item.bcwe_sd:change_log_book.name"
+                "value": "item.bcwe_sd:changelog_book.name"
             },
             "minecraft:glint": true,
             "minecraft:tags": {

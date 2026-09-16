@@ -1,8 +1,7 @@
 {
     "values": [
-        //"SD/spawn_texts/spawn_messages",
-        //"SD/spawn",
-        //"SD/commandoutputs",
-        "SD/items/puppy/puppys_collar"
+        "SD/spawn_texts/spawn_messages",
+        "SD/spawn",
+        "SD/commandoutputs"
     ]
 }

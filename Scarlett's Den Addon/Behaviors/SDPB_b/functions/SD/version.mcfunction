@@ -1,1 +1,1 @@
-execute as @a[c=1] positioned ~ ~ ~ run tellraw @s {"rawtext":[{"text":"You are running the latest version: §a1.0.2-1.26.30§r Patch!"}]}
+execute as @a[c=1] positioned ~ ~ ~ run tellraw @s {"rawtext":[{"text":"You are running the latest version: §a1.0.1-1.26.50§r Patch!"}]}

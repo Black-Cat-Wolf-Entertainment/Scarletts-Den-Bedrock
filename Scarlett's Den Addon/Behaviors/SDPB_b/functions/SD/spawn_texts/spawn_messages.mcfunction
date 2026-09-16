@@ -1,1 +1,1 @@
-execute as @a[tag=!spawn] positioned ~ ~ ~ run tellraw @s {"rawtext":[{"text":"Hello there, "},{"selector":"@s"},{"text":". Welcome to the Public Beta Release of §3Scarlett's Den§r!\nYou're playing the §a1.0.1§r Patch\nCheck the book for the latest updates!"}]}
+execute as @a[tag=!spawn] positioned ~ ~ ~ run tellraw @s {"rawtext":[{"text":"Hello there, "},{"selector":"@s"},{"text":". Welcome to the Public Beta Release of §3Scarlett's Den§r!\nYou're playing the §a1.0.3§r Patch\nCheck the book for the latest updates!"}]}

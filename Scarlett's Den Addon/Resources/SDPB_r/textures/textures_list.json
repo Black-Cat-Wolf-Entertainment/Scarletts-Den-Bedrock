@@ -1,11 +1,11 @@
 [
 //////TITLE/LOGO//////
     "textures/ui/title",
-    "textures/ui/1.0/scarletts_den_public_beta_logo",
+    "textures/ui/1.0/scarletts_den_public_beta_logo"
 //////STAFF ONLY//////
 ///ITEMS///
 //Changelog Book
-    "textures/items/change_log_book",
+    "textures/items/changelog_book",
 ////////////////////////////////////////////
 ///CONSTRUCTION///
     "textures/blocks/ruby_block",
@@ -16,10 +16,11 @@
     "textures/models/armor/ruby/ruby_main",
     "textures/models/armor/ruby/ruby_legs",
 
-    "textures/items/equipment/ruby/armor/ruby_helmet",
-    "textures/items/equipment/ruby/armor/ruby_chestplate",
-    "textures/items/equipment/ruby/armor/ruby_leggings",
-    "textures/items/equipment/ruby/armor/ruby_boots",
+    "textures/items/equipment/armor/ruby/ruby_helmet",
+    "textures/items/equipment/armor/ruby/ruby_chestplate",
+    "textures/items/equipment/armor/ruby/ruby_leggings",
+    "textures/items/equipment/armor/ruby/ruby_boots",
+
 //TOOLS//
 //Ruby
     "textures/items/equipment/ruby/tools/ruby_axe",
@@ -27,6 +28,12 @@
     "textures/items/equipment/ruby/tools/ruby_pickaxe",
     "textures/items/equipment/ruby/tools/ruby_shovel",
     "textures/items/equipment/ruby/tools/ruby_sword",
+
+//SPEARS//
+//Ruby
+    "textures/entity/equipment/spears/ruby_spear",
+    "textures/items/equipment/spears/ruby_spear",
+////////////////////////////////////////////
 ///ITEMS///
 //Ruby
     "textures/items/ruby/ruby",
