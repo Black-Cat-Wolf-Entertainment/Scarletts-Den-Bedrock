@@ -2,7 +2,7 @@
     "format_version": 2,
     "metadata": {
         "authors": ["Black Cat & Wolf Entertainment"],
-        "license": "All Rights Reserved",
+        "license": "AGPL3",
         "product_type": "addon",
         "url": "https://www.youtube.com/@ScarlettsDenMCBEOfficial"
     },
@@ -10,7 +10,7 @@
         "name": "pack.name",
         "description": "pack.description",
         "uuid": "369b93df-9202-49f7-ac03-0b6d6b21e776",
-        "min_engine_version": [1, 26, 30],
+        "min_engine_version": [1, 26, 50],
         "version": [1, 0, 0]
     },
     "modules": [
@@ -31,7 +31,13 @@
         {
             "folder_name": "subpack_2",
             "name": "Ores w/ Outlines",
-            "memory_tier": 0
+            "memory_tier": 1
+        }
+    ],
+    "settings": [
+        {
+            "type": "label",
+            "text": "Welcome to the Resource Configuration!\n\nMore features are coming soon in here as well, right now it's only the two options"
         }
     ],
     "dependencies": [

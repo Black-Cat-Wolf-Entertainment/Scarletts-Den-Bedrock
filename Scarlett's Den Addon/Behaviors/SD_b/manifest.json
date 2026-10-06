@@ -2,7 +2,7 @@
     "format_version": 2,
     "metadata": {
         "authors": ["Black Cat & Wolf Entertainment"],
-        "license": "All Rights Reserved",
+        "license": "AGPL3",
         "product_type": "addon",
         "url": "https://www.youtube.com/@ScarlettsDenMCBEOfficial"
     },
@@ -10,7 +10,7 @@
         "name": "pack.name",
         "description": "pack.description",
         "uuid": "f98152a7-09b9-4d3e-b953-ff758ee6a7ae",
-        "min_engine_version": [1, 26, 30],
+        "min_engine_version": [1, 26, 50],
         "version": [1, 0, 0]
     },
     "modules": [
@@ -37,15 +37,11 @@
         },
         {
             "module_name": "@minecraft/server",
-            "version": "beta"
-        },
-        {
-            "module_name": "@minecraft/server-gametest",
-            "version": "beta"
+            "version": "2.10.0"
         },
         {
             "module_name": "@minecraft/server-ui",
-            "version": "beta"
+            "version": "2.2.0"
         }
     ]
 }
