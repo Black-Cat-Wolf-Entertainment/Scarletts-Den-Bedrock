@@ -9,7 +9,7 @@
     "header": {
         "name": "pack.name",
         "description": "pack.description",
-        "uuid": "369b93df-9202-49f7-ac03-0b6d6b21e776",
+        "uuid": "f71ecbc2-5dd1-4e9b-97f5-bf9c9ac49409",
         "min_engine_version": [1, 26, 60],
         "version": [1, 0, 0]
     },
@@ -17,7 +17,7 @@
         {
             "description": "This is for identifing this pack as resources",
             "type": "resources",
-            "uuid": "747f9f38-87a8-43af-921e-b28ac26c45f8",
+            "uuid": "92c22367-1d76-4708-a7a2-0523727ff668",
             "version": [1, 0, 0]
         }
     ],
@@ -26,7 +26,7 @@
     "settings": [],*/
     "dependencies": [
         {
-            "uuid": "f98152a7-09b9-4d3e-b953-ff758ee6a7ae",
+            "uuid": "3f59e210-e62c-442e-b8e8-90080398e200",
             "version": [1, 0, 0]
         }
     ]
