@@ -1,5 +1,50 @@
 [
 //////////TITLE/LOGO//////////
     "textures/ui/title",
-    "textures/ui/1.0/Scarletts_Den_Welcome_Home_Logo"
+    "textures/ui/1.0/Scarletts_Den_Welcome_Home_Logo",
+//////////////////////////////
+///STAFF ONLY///
+//ITEMS//
+//Changelog Book
+//////////////////////////////
+///CONSTRUCTION///
+//ORE BLOCKS//
+//Ruby
+//////////////////////////////
+///EQUIPMENT///
+//ARMOR//
+//Ruby
+//TOOLS//
+//Ruby
+//////////////////////////////
+///ITEMS///
+//ORE LOOT//
+//Ruby
+//////////////////////////////
+///NATURE///
+//ORES//
+    "textures/blocks/deepslate/deepslate_coal_ore",
+    "textures/blocks/deepslate/deepslate_copper_ore",
+    "textures/blocks/deepslate/deepslate_diamond_ore",
+    "textures/blocks/deepslate/deepslate_emerald_ore",
+    "textures/blocks/deepslate/deepslate_gold_ore",
+    "textures/blocks/deepslate/deepslate_iron_ore",
+    "textures/blocks/deepslate/deepslate_lapis_ore",
+    "textures/blocks/deepslate/deepslate_redstone_ore",
+    "textures/blocks/deepslate/deepslate_ruby_ore",
+
+    "textures/blocks/coal_ore",
+    "textures/blocks/copper_ore",
+    "textures/blocks/diamond_ore",
+    "textures/blocks/emerald_ore",
+    "textures/blocks/gold_ore",
+    "textures/blocks/iron_ore",
+    "textures/blocks/lapis_ore",
+    "textures/blocks/redstone_ore",
+    "textures/blocks/ruby_ore",
+
+    "textures/blocks/nether_gold_ore",
+    "textures/blocks/quartz_ore"
+//Ruby
+//////////////////////////////
 ]
