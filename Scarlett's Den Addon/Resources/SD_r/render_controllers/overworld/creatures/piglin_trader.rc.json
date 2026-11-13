@@ -1,0 +1,10 @@
+{
+    "format_version": "1.10.0",
+    "render_controllers": {
+        "controller.render.piglin_trader": {
+            "materials": [{"*": "material.default"}],
+            "textures": ["texture.default"],
+            "geometry": "geometry.default"
+        }
+    }
+}

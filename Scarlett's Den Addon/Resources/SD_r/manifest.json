@@ -21,9 +21,25 @@
             "version": [1, 0, 0]
         }
     ],
-    "capabilities": ["pbr"],/*
-    "subpacks": [],
-    "settings": [],*/
+    "capabilities": ["pbr"],
+    "subpacks": [
+        {
+            "folder_name": "subpack_1",
+            "name": "Scarlett's Den: Ores w/o Outlines\n\nTakes away Custom Outlines for all available ores\n\nIncluding with the Scarlett's Den ores if you prefer them off!",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "subpack_2",
+            "name": "Scarlett's Den: Ores w/ Outlines\n\nGives all available ores including with the Scarlett's Den ores\n\nCustom Outlines to help see them a little bit easier",
+            "memory_tier": 2
+        }
+    ],
+    "settings": [
+        {
+            "type": "label",
+            "text": "Welcome to the Resource Configuration!\n\nMore features are coming soon in here as well, we hope you enjoy the addon!"
+        }
+    ],
     "dependencies": [
         {
             "uuid": "3f59e210-e62c-442e-b8e8-90080398e200",

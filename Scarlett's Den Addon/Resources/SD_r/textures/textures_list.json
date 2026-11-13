@@ -6,6 +6,7 @@
 ///STAFF ONLY///
 //ITEMS//
 //Changelog Book
+    "textures/items/changelog_book",
 //////////////////////////////
 ///CONSTRUCTION///
 //ORE BLOCKS//
@@ -15,15 +16,33 @@
 ///EQUIPMENT///
 //ARMOR//
 //Ruby
+    "textures/models/armor/ruby/ruby_main",
+    "textures/models/armor/ruby/ruby_legs",
+
+    "textures/items/equipment/ruby/ruby_helmet",
+    "textures/items/equipment/ruby/ruby_chestplate",
+    "textures/items/equipment/ruby/ruby_leggings",
+    "textures/items/equipment/ruby/ruby_boots",
+//SPEARS//
+//Ruby
+    "textures/entity/equipment/ruby/ruby_spear_main",
+    "textures/items/equipment/ruby/ruby_spear",
 //TOOLS//
 //Ruby
+    "textures/items/equipment/ruby/ruby_axe",
+    "textures/items/equipment/ruby/ruby_hoe",
+    "textures/items/equipment/ruby/ruby_pickaxe",
+    "textures/items/equipment/ruby/ruby_shovel",
+    "textures/items/equipment/ruby/ruby_sword",
 //////////////////////////////
 ///ITEMS///
 //ORE LOOT//
 //Ruby
+    "textures/items/ruby/ruby",
 //////////////////////////////
 ///NATURE///
 //ORES//
+//Deepslate
     "textures/blocks/deepslate/deepslate_coal_ore",
     "textures/blocks/deepslate/deepslate_copper_ore",
     "textures/blocks/deepslate/deepslate_diamond_ore",
@@ -33,7 +52,7 @@
     "textures/blocks/deepslate/deepslate_lapis_ore",
     "textures/blocks/deepslate/deepslate_redstone_ore",
     "textures/blocks/deepslate/deepslate_ruby_ore",
-
+//Stone
     "textures/blocks/coal_ore",
     "textures/blocks/copper_ore",
     "textures/blocks/diamond_ore",
@@ -43,9 +62,17 @@
     "textures/blocks/lapis_ore",
     "textures/blocks/redstone_ore",
     "textures/blocks/ruby_ore",
-
+//Nether
     "textures/blocks/nether_gold_ore",
-    "textures/blocks/quartz_ore"
-//Ruby
+    "textures/blocks/quartz_ore",
+//MOBS//
+//ANIMALS//
+//CREATURES//
+//Billy
+    "textures/items/billy",
+    "textures/entity/overworld/creatures/billy",
+//Piglin Trader
+    "textures/entity/overworld/creatures/piglin_trader"
+//MONSTERS//
 //////////////////////////////
 ]
